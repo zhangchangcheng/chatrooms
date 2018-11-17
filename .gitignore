@@ -1,0 +1,5 @@
+﻿.idea
+.svn
+.gitignore.rej
+.gitlab-ci.yml.rej
+/node_modules

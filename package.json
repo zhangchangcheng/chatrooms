@@ -1,0 +1,13 @@
+{
+  "name": "chatrooms",
+  "version": "1.0.0",
+  "description": "Minimalist multiroom chat server",
+  "main": "index.js",
+  "repository": "https://github.com/zhangchangcheng/chatrooms.git",
+  "author": "zhangchangcheng <zhangchangcheng.banggood.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mime": "^2.3.1",
+    "socket.io": "^2.1.1"
+  }
+}
